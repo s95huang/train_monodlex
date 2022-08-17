@@ -9,8 +9,8 @@ CUDA 10.2
 torch 1.7.0
 torchvision 0.8.0
 ```
-
-## Resnet 18 backbone (140 epos, 3 class , kitti dataset)
+## Kitti dataset
+### Resnet 18 backbone (140 epos, 3 class , kitti dataset)
 * about 6-7 hours on 2070 super @ batch size 8, speed is  1.69it/s
 ```
 2022-08-17 03:31:38,449   INFO  Pedestrian AP@0.50, 0.50, 0.50:
